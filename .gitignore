@@ -1,0 +1,5 @@
+.flooignore
+.floo
+.DS_Store
+obj/
+ft_retro
